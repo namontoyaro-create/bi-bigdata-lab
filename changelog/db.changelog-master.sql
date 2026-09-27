@@ -11,3 +11,4 @@ CREATE SCHEMA IF NOT EXISTS workspace.bi_staging_7003132588
 COMMENT 'Staging schema - BI and Big Data - Lab 03';
 
 --rollback DROP SCHEMA IF EXISTS workspace.bi_staging_7003132588;
+
