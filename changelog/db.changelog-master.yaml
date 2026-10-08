@@ -17,6 +17,8 @@ databaseChangeLog:
   - include:
       file: changelog/changes/007_create_fact_sales.sql
         - include:
+
+    - include:
       file: changelog/changes/008_create_bronze_silver_schemas.sql
 
   - include:
