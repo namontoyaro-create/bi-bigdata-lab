@@ -21,9 +21,9 @@ databaseChangeLog:
   - include:
       file: changelog/changes/008_create_bronze_silver_schemas.sql
 
-  - include:
+   -  include:
       file: changelog/changes/009_create_bronze_raw_tables.sql
-        - include:
+  - include:
       file: changelog/changes/010_create_customers_raw.sql
   - include:
       file: changelog/changes/011_create_stores_raw.sql
