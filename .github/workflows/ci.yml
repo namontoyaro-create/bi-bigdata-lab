@@ -1,3 +1,4 @@
+
 name: CI - Validate Database Changes
 
 on:
